@@ -1,0 +1,468 @@
+2022-03-17 02:26:12 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-17 02:26:12 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=2 has successfully been inserted.
+2022-03-17 02:26:12 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 2
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "country" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "country" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "country" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "country" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "country" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "manufacturer" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "model" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:117 - Exception Message: ERROR: no schema has been selected to create in
+  Position: 28
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 13:41:05 ERROR revature.orm.ORM:236 - Exception Message: ERROR: relation "car" does not exist
+  Position: 13
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 14:28:07 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-17 14:28:07 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=1 has successfully been inserted.
+2022-03-17 14:28:07 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 1
+2022-03-17 14:32:28 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-17 14:32:28 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=2 has successfully been inserted.
+2022-03-17 14:32:28 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 2
+2022-03-17 14:33:31 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=3 has successfully been inserted.
+2022-03-17 14:33:31 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 3
+2022-03-17 14:36:18 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-17 14:36:18 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=4 has successfully been inserted.
+2022-03-17 14:36:18 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 1
+2022-03-17 14:36:53 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=5 has successfully been inserted.
+2022-03-17 14:36:53 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 2
+2022-03-17 14:38:23 INFO  revature.dao.CarDao:39 - A record in the Car table with an id=2 has successfully been deleted.
+2022-03-17 14:38:36 INFO  revature.dao.CarDao:64 - A new record with id=1 has successfully been selected.
+2022-03-17 14:38:48 INFO  revature.dao.CarDao:39 - A record in the Car table with an id=1 has successfully been deleted.
+2022-03-17 14:39:25 ERROR revature.orm.ORM:236 - Exception Message: ERROR: insert or update on table "model" violates foreign key constraint "model_manufacturer_id_fkey"
+  Detail: Key (manufacturer_id)=(0) is not present in table "manufacturer".
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 14:39:25 ERROR revature.orm.ORM:236 - Exception Message: ERROR: insert or update on table "car" violates foreign key constraint "car_model_id_fkey"
+  Detail: Key (model_id)=(-1) is not present in table "model".
+Exception Cause: null
+
+Please view the console for more information.
+2022-03-17 14:40:22 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-17 14:40:22 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=7 has successfully been inserted.
+2022-03-17 14:40:22 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 4
+2022-03-17 14:40:28 INFO  revature.dao.CarDao:76 - All cars have successfully been selected from the Car table.
+2022-03-17 14:40:44 INFO  revature.dao.CarDao:64 - A new record with id=1 has successfully been selected.
+2022-03-17 14:40:50 INFO  revature.dao.CarDao:64 - A new record with id=0 has successfully been selected.
+2022-03-17 14:41:06 INFO  revature.dao.CarDao:64 - A new record with id=4 has successfully been selected.
+2022-03-17 16:42:41 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-17 16:42:41 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=8 has successfully been inserted.
+2022-03-17 16:42:41 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 5
+2022-03-17 16:42:49 INFO  revature.dao.CarDao:39 - A record in the Car table with an id=4 has successfully been deleted.
+2022-03-17 16:43:39 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-17 16:44:22 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-17 16:44:28 INFO  revature.dao.CarDao:64 - A new record with id=5 has successfully been selected.
+2022-03-17 16:44:47 INFO  revature.dao.CarDao:51 - A record in the Car table with id=5 has successfully been updated.
+2022-03-17 16:55:24 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-17 16:55:30 INFO  revature.dao.CarDao:64 - A new record with id=5 has successfully been selected.
+2022-03-17 16:55:39 INFO  revature.dao.CarDao:51 - A record in the Car table with id=5 has successfully been updated.
+2022-03-17 16:55:44 INFO  revature.dao.CarDao:64 - A new record with id=5 has successfully been selected.
+2022-03-17 16:55:54 INFO  revature.dao.CarDao:64 - A new record with id=5 has successfully been selected.
+2022-03-17 16:56:00 INFO  revature.dao.CarDao:64 - A new record with id=5 has successfully been selected.
+2022-03-17 16:56:33 INFO  revature.dao.CarDao:51 - A record in the Car table with id=5 has successfully been updated.
+2022-03-17 16:56:36 INFO  revature.dao.CarDao:76 - All cars have successfully been selected from the Car table.
+2022-03-17 16:57:37 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=9 has successfully been inserted.
+2022-03-17 16:57:37 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 6
+2022-03-17 16:57:39 INFO  revature.dao.CarDao:76 - All cars have successfully been selected from the Car table.
+2022-03-17 16:57:46 INFO  revature.dao.CarDao:39 - A record in the Car table with an id=6 has successfully been deleted.
+2022-03-17 16:57:50 INFO  revature.dao.CarDao:76 - All cars have successfully been selected from the Car table.
+2022-03-18 10:01:35 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-18 10:02:30 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=10 has successfully been inserted.
+2022-03-18 10:02:30 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 1
+2022-03-18 10:02:48 INFO  revature.dao.CarDao:76 - All cars have successfully been selected from the Car table.
+2022-03-18 10:03:15 INFO  revature.dao.CarDao:39 - A record in the Car table with an id=1 has successfully been deleted.
+2022-03-18 10:03:59 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-18 10:05:02 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-18 10:05:59 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=11 has successfully been inserted.
+2022-03-18 10:05:59 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 1
+2022-03-18 10:07:47 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=12 has successfully been inserted.
+2022-03-18 10:07:47 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 2
+2022-03-18 10:08:36 INFO  revature.dao.CarDao:76 - All cars have successfully been selected from the Car table.
+2022-03-18 10:26:05 INFO  revature.orm.ORM:138 - Country and Manufacturer tables have successfully been initialized with data
+2022-03-18 10:26:56 INFO  revature.dao.ModelDao:29 - A record in the Car table with an id=1 has successfully been inserted.
+2022-03-18 10:26:56 INFO  revature.dao.CarDao:28 - A car object has successfully been inserted into the Car table with primary key 1
+2022-03-18 10:27:46 INFO  revature.dao.CarDao:64 - A new record with id=1 has successfully been selected.
+2022-03-18 10:28:01 INFO  revature.dao.CarDao:64 - A new record with id=1 has successfully been selected.
+2022-03-18 10:28:13 INFO  revature.dao.CarDao:51 - A record in the Car table with id=1 has successfully been updated.
+2022-03-18 10:28:24 INFO  revature.dao.CarDao:76 - All cars have successfully been selected from the Car table.
+2022-03-18 10:28:33 INFO  revature.dao.CarDao:39 - A record in the Car table with an id=1 has successfully been deleted.
